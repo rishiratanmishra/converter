@@ -91,31 +91,11 @@ h1 {
     margin-top: 5rem;
 }
 
-@media (max-width:500px){
-    .box{
-        box-shadow: none;
-        border-radius:0px ;
-}
-.headline{
-font-size: 1rem;
-}
 
 
 
-.menu li{
-    display: flex;
-}
 
-.menu li a{
-    text-decoration: none;
-    font-size: 20px;
-    color: rgb(255, 247, 2);
-    padding: 10px;
-    background-color: blue;
-    border-radius: 10px;
-}
 
-}
 
 /* MARKS CALCULATOR PAGE */
 
