@@ -91,7 +91,7 @@ h1 {
     margin-top: 5rem;
 }
 
-@media (max-width:900px){
+@media (max-width:500px){
     .box{
         box-shadow: none;
         border-radius:0px ;
